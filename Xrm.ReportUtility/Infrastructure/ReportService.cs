@@ -15,6 +15,9 @@ namespace Xrm.ReportUtility.Infrastructure
             _filename = filename;
         }
 
+        /*
+            Да, наверное dataTransformer тоже можно сделать стратегией..
+        */
         public Report CreateReport(IDataTransformer dataTransformer)
         {
             var text = File.ReadAllText(_filename);

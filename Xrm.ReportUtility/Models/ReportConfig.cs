@@ -16,6 +16,12 @@ namespace Xrm.ReportUtility.Models
         public bool CostSum { get; set; }
         public bool CountSum { get; set; }
 
+        /*
+            Наверное логичнее это было сделать где-то не здесь..
+            Можно сделать еще какую-то сущность,
+            которая будет знать как про ReportConfig, так и про то,
+            в каком формате нам приходят опции программы
+        */
         public ReportConfig(ICollection<string> options)
         {
             WithData        = options.Contains("-data");

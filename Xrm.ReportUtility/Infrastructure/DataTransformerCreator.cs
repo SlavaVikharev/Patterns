@@ -5,6 +5,11 @@ namespace Xrm.ReportUtility.Infrastructure
 {
     public static class DataTransformerCreator
     {
+        /*
+            Decorator (каждый из трансформеров)
+            "Навешивает" функциональность поверх сервиса
+            Сделано для удобства добавления нового DataTransformer
+        */
         public static IDataTransformer Create(IConfig config)
         {
             IDataTransformer service = new DataTransformer(config);

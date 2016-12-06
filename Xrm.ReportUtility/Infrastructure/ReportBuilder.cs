@@ -5,6 +5,14 @@ using Xrm.ReportUtility.Interfaces;
 
 namespace Xrm.ReportUtility.Infrastructure
 {
+    /*
+        Builder
+        Собирает репорт из заголовка и тела
+        
+        Можно сделать еще AbstractReportBuilder,
+        у которого уже будут реализованы некоторые методы отсюда,
+        так как они будут повторяться при создании нового билдера
+    */
     public class ReportBuilder : IReportBuilder
     {
         public static string Delimeter = "\t";
