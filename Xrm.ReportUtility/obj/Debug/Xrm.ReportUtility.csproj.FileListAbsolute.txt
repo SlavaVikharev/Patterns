@@ -54,3 +54,13 @@ C:\Users\Слава\Desktop\Xrm.ReportUtility\Xrm.ReportUtility\Xrm.ReportUtilit
 C:\Users\Слава\Desktop\Xrm.ReportUtility\Xrm.ReportUtility\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\CsvHelper.dll
 C:\Users\Слава\Desktop\Xrm.ReportUtility\Xrm.ReportUtility\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\CsvHelper.xml
 C:\Users\Слава\Desktop\Xrm.ReportUtility\Xrm.ReportUtility\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.csprojResolveAssemblyReference.cache
+C:\Users\Слава\Desktop\Patterns\Xrm.ReportUtility\bin\Debug\Xrm.ReportUtility.exe.config
+C:\Users\Слава\Desktop\Patterns\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.exe
+C:\Users\Слава\Desktop\Patterns\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.pdb
+C:\Users\Слава\Desktop\Patterns\Xrm.ReportUtility\bin\Debug\Files\table.csv
+C:\Users\Слава\Desktop\Patterns\Xrm.ReportUtility\bin\Debug\Files\table.txt
+C:\Users\Слава\Desktop\Patterns\Xrm.ReportUtility\bin\Debug\Xrm.ReportUtility.exe
+C:\Users\Слава\Desktop\Patterns\Xrm.ReportUtility\bin\Debug\Xrm.ReportUtility.pdb
+C:\Users\Слава\Desktop\Patterns\Xrm.ReportUtility\bin\Debug\CsvHelper.dll
+C:\Users\Слава\Desktop\Patterns\Xrm.ReportUtility\bin\Debug\CsvHelper.xml
+C:\Users\Слава\Desktop\Patterns\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.csprojResolveAssemblyReference.cache

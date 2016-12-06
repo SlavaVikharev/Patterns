@@ -22,7 +22,8 @@ namespace Xrm.ReportUtility
         {
             if ((bool) report.Config.GetValue("WithIndex"))
             {
-                reportBuilder.AddColumn("№", r => "_");
+                var i = 1;
+                reportBuilder.AddColumn("№", r => i++);
             }
 
             reportBuilder
